@@ -1,4 +1,4 @@
-package com.pycogroup;
+package com.pycogroup.presentation;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
