@@ -1,8 +1,8 @@
-package com.pycogroup.entity.mapper;
+package com.pycogroup.data.entity.mapper;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.pycogroup.entity.UserEntity;
+import com.pycogroup.data.entity.UserEntity;
 
 import java.lang.reflect.Type;
 import java.util.List;

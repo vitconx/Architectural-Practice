@@ -1,9 +1,9 @@
-package com.pycogroup.network;
+package com.pycogroup.data.network;
 
 import android.content.Context;
 
-import com.pycogroup.entity.UserEntity;
-import com.pycogroup.entity.mapper.UserEntityJsonMapper;
+import com.pycogroup.data.entity.UserEntity;
+import com.pycogroup.data.entity.mapper.UserEntityJsonMapper;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.pycogroup;
+package com.pycogroup.data;
 
 import org.junit.runner.RunWith;
 import org.robolectric.RobolectricGradleTestRunner;

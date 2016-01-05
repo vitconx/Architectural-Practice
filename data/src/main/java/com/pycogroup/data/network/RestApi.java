@@ -1,6 +1,6 @@
-package com.pycogroup.network;
+package com.pycogroup.data.network;
 
-import com.pycogroup.entity.UserEntity;
+import com.pycogroup.data.entity.UserEntity;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.pycogroup.entity;
+package com.pycogroup.data.entity;
 
 import com.google.gson.annotations.SerializedName;
 

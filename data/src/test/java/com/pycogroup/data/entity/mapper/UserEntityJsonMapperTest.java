@@ -1,8 +1,8 @@
-package com.pycogroup.entity.mapper;
+package com.pycogroup.data.entity.mapper;
 
 import com.google.gson.JsonSyntaxException;
-import com.pycogroup.ApplicationTestCase;
-import com.pycogroup.entity.UserEntity;
+import com.pycogroup.data.ApplicationTestCase;
+import com.pycogroup.data.entity.UserEntity;
 
 import org.junit.Before;
 import org.junit.Rule;

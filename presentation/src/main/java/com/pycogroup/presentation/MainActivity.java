@@ -1,4 +1,4 @@
-package com.pycogroup;
+package com.pycogroup.presentation;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

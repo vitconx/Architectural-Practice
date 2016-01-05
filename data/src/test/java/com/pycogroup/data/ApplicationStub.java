@@ -1,4 +1,4 @@
-package com.pycogroup;
+package com.pycogroup.data;
 
 import android.app.Application;
 

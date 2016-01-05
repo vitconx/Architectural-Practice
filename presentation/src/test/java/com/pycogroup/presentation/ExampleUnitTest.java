@@ -1,4 +1,4 @@
-package com.pycogroup.architectural_practice;
+package com.pycogroup.presentation;
 
 import org.junit.Test;
 
