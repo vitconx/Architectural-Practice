@@ -8,6 +8,6 @@ import org.robolectric.annotation.Config;
  * Created by HieuVP on 1/4/16.
  */
 @RunWith(RobolectricGradleTestRunner.class)
-@Config(constants = BuildConfig.class, application = ApplicationStub.class)
+@Config(constants = BuildConfig.class, sdk = 16, application = ApplicationStub.class)
 public abstract class ApplicationTestCase {
 }
